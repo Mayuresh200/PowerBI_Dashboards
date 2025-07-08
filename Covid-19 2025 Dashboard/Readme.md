@@ -35,10 +35,10 @@ An interactive Power BI dashboard that tracks the latest COVID-19 trends across 
 ---
 
 ## 📸 Dashboard Preview
-
-[Covid-19 Dashboard](https://github.com/user-attachments/files/21113422/covid.dashboard.pdf)
+![Covid Dashboard ScreenShot](https://github.com/user-attachments/assets/42f3e37e-5b8a-4ffa-8988-0a34538ed5fe)
 
 [View Interactive Dashbaord](https://app.powerbi.com/view?r=eyJrIjoiOTk1OTNhNmMtYmM1Ny00ZGE1LWFmMGMtZTVhNTIzYTQ3Y2RjIiwidCI6IjI3ZDllYmQwLWYyZjktNGFhMy1iNmY5LWM2ZDAzODI4NjEyNyJ9&pageName=1656117633b9c9fea745)
+
 ---
 
 ## 📂 File Structure
