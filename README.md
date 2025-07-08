@@ -1,6 +1,6 @@
-# **My Projects Portfolio**  
+# **My Power BI Projects **  
 
-Welcome to my GitHub repository! 🚀 Here, I showcase a collection of my projects across data analytics, visualization, and problem-solving domains. Each project is a testament to my passion for analyzing data, uncovering insights, and delivering actionable results.  
+Welcome to my GitHub repository! 🚀 Here, I showcase a collection of my PowerBi projects across data analytics, visualization, and problem-solving domains. Each project is a testament to my passion for analyzing data, uncovering insights, and delivering actionable results.  
 
 ## **📂 Repository Structure**  
 This repository is organized into project-specific folders, each containing:  
