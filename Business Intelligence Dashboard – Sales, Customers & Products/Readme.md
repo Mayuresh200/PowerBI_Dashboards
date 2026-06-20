@@ -62,11 +62,32 @@ Each report section is accessible via a central landing page:
 
 ## Sample Business Questions Answered
 
-- What is the total sales by year and by month?
-- How do product sales change YoY compared to their average?
-- Who are the top 10 revenue-generating customers?
-- Which product categories contribute most to revenue?
-- What are the best and worst performing products?
+- **What is the total sales by year and by month?**  
+  - The top 10 customers each contributed over $12,000 in sales, led by *Nichole Nara*
+    and *Kaitlyn Henderson*. These high-value customers are excellent candidates for loyalty
+    programs or personalized offers.
+  
+- **How do yearly product sales compare to the previous year (YoY analysis)?**
+  - 2013 was the strongest YoY performer, with many products growing by over 20,000%
+    compared to 2012.
+  - 2014 saw a sharp decline of over 90% YoY — driven by partial data and end of trend.
+    Most products performed above their multi-year average only in 2013.
+    
+- **Who are the top 10 revenue-generating customers?**
+  - The top 10 customers each contributed over $12,000 in sales, led by Nichole Nara
+    and Kaitlyn Henderson. These high-value customers are excellent candidates for loyalty
+    programs or personalized offers.
+    
+- **Which product categories contribute most to revenue?**
+  - *Bikes* account for **96.46%** of total revenue, clearly leading the product portfolio.
+    *Accessories* contribute **2.38%**, while *Clothing*makes up only **1.16%**.
+  - This significant imbalance highlights a possible over-dependence on a single
+    category and may warrant diversification strategies or category-specific marketing.
+    
+- **What are the best and worst performing products?**
+  - Thes best product is *Mountain-200 Black - 46* generated **$1.37M** Belongs to *Bikes* Category.
+  - And The product with the Lowest Performance is *Racing Socks and Patch Kit* generated less than **$10,000** in total revenue,
+    indicating low traction.
 ---
 
 ## Screenshots
