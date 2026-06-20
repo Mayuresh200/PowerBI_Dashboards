@@ -63,9 +63,9 @@ Each report section is accessible via a central landing page:
 ## Sample Business Questions Answered
 
 - **What is the total sales by year and by month?**  
-  - The top 10 customers each contributed over $12,000 in sales, led by *Nichole Nara*
-    and *Kaitlyn Henderson*. These high-value customers are excellent candidates for loyalty
-    programs or personalized offers.
+  - Sales grew steadily from $4.3K in 2010 to a peak of *$16.3M* in 2013
+  - From Jan 2010 to Jan 2014, sales showed a consistent upward trend.The highest monthly sales of *$5.3M* occurred in Q4 2013,
+    indicating a seasonal sales spike.
   
 - **How do yearly product sales compare to the previous year (YoY analysis)?**
   - 2013 was the strongest YoY performer, with many products growing by over 20,000%
@@ -80,12 +80,12 @@ Each report section is accessible via a central landing page:
     
 - **Which product categories contribute most to revenue?**
   - *Bikes* account for **96.46%** of total revenue, clearly leading the product portfolio.
-    *Accessories* contribute **2.38%**, while *Clothing*makes up only **1.16%**.
+    *Accessories* contribute **2.38%**, while *Clothing* makes up only **1.16%**.
   - This significant imbalance highlights a possible over-dependence on a single
     category and may warrant diversification strategies or category-specific marketing.
     
 - **What are the best and worst performing products?**
-  - Thes best product is *Mountain-200 Black - 46* generated **$1.37M** Belongs to *Bikes* Category.
+  - The best product is *Mountain-200 Black - 46* generated **$1.37M** Belongs to *Bikes* Category.
   - And The product with the Lowest Performance is *Racing Socks and Patch Kit* generated less than **$10,000** in total revenue,
     indicating low traction.
 ---
@@ -107,7 +107,7 @@ It helped me deepen my knowledge of SQL, advanced analytics, and professional re
 
 ## Connect with Me
 
-- **LinkedIn:** [Mayuresh Chourikar](www.linkedin.com/mayureshchourikar)
+- **LinkedIn:** [Mayuresh Chourikar](https://www.linkedin.com/in/mayureshchourikar)
 - **GitHub:** [Mayuresh200](https://github.com/Mayuresh200)
 - **Email:** [mayureshchourikart@gmail.com]
 
